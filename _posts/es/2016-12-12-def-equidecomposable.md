@@ -1,4 +1,4 @@
----
+﻿---
 title: "Equidescomponibilidad"
 lang: es
 category: es
